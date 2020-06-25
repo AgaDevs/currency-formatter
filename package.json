@@ -1,11 +1,11 @@
 {
-  "name": "@epoch/currency-formatter",
+  "name": "@epoch/worldpay-currency-formatter",
   "author": "Soroush Mirzaei <soroush.mirzaei@gmail.com>",
   "description": "Epoch fork - A simple Javascript utility that helps you to display currency properly",
   "homepage": "https://github.com/AgaDevs/currency-formatter#readme",
   "license": "MIT",
   "main": "./lib/index.js",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "keywords": [
     "currency",
     "format",
